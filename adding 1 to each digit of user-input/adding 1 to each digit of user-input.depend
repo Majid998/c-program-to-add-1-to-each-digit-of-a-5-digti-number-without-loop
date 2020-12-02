@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606916255 source:c:\users\mac\documents\programs\c++ programs\adding 1 to each digit of user-input\main.c
+	<stdio.h>
+	<stdlib.h>
+
